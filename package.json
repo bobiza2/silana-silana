@@ -73,6 +73,8 @@
     "gemini-ai": "*",
     "node-gtts": "*",
     "ytdl-core":"*",
+    "undici":"*",
+    "youtubedl-core":"*",
     "api-dylux":"*",
     "aptoide-scraper":"*",
     "@bochilteam/scraper-sosmed":"*",
